@@ -61,11 +61,11 @@
 
 2.  **指定输出格式**：助手支持按指定格式输出，例如输入“按表格/word等输出”，助手将按照指定格式输出。例如：![输入图片说明](/imgs/2025-04-02/o4lQsCHge2QWLNHu.png)
 
-3.  **移除群成员**：在群成员列表中，长按要移除的成员头像，选择 “移除成员”，确认后即可将该成员从群组中移除。只有群主有权限移除群成员。
 
-### 4.2 聊天记录导出
 
-点击功能菜单中的 “设置”，选择 “聊天记录导出”。您可以选择导出全部聊天记录或指定时间段、指定联系人的聊天记录。选择好导出范围后，点击 “导出”，文件将以指定格式保存到您的设备中。
+### 4.2 查看信息源
+
+在。
 
 ### 4.3 隐私与安全设置
 
@@ -105,7 +105,7 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMDk4MjY4MCwtMjE1NzE5ODc5LDE2Nj
+eyJoaXN0b3J5IjpbMTQ3NzA4MTcxMCwtMjE1NzE5ODc5LDE2Nj
 Y2Mjk3MDYsLTk1NzMzMTk3MSw3ODUzODU2MjgsLTg1NTIzMjc4
 NSwxNTI2MzM0ODksODIwMTMzMjc4LC0yNjk4MDI2NDRdfQ==
 -->
