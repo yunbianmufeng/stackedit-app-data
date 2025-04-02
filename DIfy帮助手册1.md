@@ -55,7 +55,7 @@
 
 ## 四、高级功能
 
-### 4.1 群组管理
+### 4.1 按gud
 
 1.  **修改群名称**：进入群组对话窗口，点击群名称右侧的 “...” 图标，选择 “修改群名称”，输入新的群名称后点击 “确定”。
 
@@ -105,7 +105,7 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTcxOTg3OSwxNjY2NjI5NzA2LC05NT
-czMzE5NzEsNzg1Mzg1NjI4LC04NTUyMzI3ODUsMTUyNjMzNDg5
-LDgyMDEzMzI3OCwtMjY5ODAyNjQ0XX0=
+eyJoaXN0b3J5IjpbLTcwMTQyNjI3MSwtMjE1NzE5ODc5LDE2Nj
+Y2Mjk3MDYsLTk1NzMzMTk3MSw3ODUzODU2MjgsLTg1NTIzMjc4
+NSwxNTI2MzM0ODksODIwMTMzMjc4LC0yNjk4MDI2NDRdfQ==
 -->
