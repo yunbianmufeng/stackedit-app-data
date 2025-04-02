@@ -15,7 +15,7 @@
 
 ### 2.1 打开助手
 
-1.  **位置**：登录产研AI大脑后，在首页的左侧导航栏点击“助理” 按钮，即机器人图标：![输入图片说明](/imgs/2025-04-02/KJUIuxOCW4sTVeM0.png)。完成后，点击 “注册” 提交信息。您将收到一封验证邮件，请点击邮件中的链接完成邮箱验证。
+1.  **位置**：登录产研AI大脑后，在首页的左侧导航栏点击“助理” 按钮，即小机器人图标：![输入图片说明](/imgs/2025-04-02/KJUIuxOCW4sTVeM0.png)。点击后可以查看到产研大脑的所有助理列表，找到“投资项目助理”并点击进去即可。
 
 2.  **登录**：在应用登录页面，输入已注册的邮箱地址和密码，点击 “登录” 即可进入 DIfy Chatflow 主界面。
 
@@ -111,6 +111,6 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDY2MjIxLC04NTUyMzI3ODUsMTUyNj
-MzNDg5LDgyMDEzMzI3OCwtMjY5ODAyNjQ0XX0=
+eyJoaXN0b3J5IjpbLTczOTU0NTk1MiwtODU1MjMyNzg1LDE1Mj
+YzMzQ4OSw4MjAxMzMyNzgsLTI2OTgwMjY0NF19
 -->
