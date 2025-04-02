@@ -83,9 +83,9 @@
 
 ### 5.2 助手回复“没找到...资料”
 
-1.  **原有**：助手知识库中并为录入您询问的知识。
+1.  **原因**：助手知识库中并为录入您询问的知识。
 
-2.  **解决**：请联系相关部门同事在山东。
+2.  **解决**：请联系相关部门同事在“山东产业技术研究院（青岛）”系统的项目资料中填写或更新相关信息。
 
 ### 5.3 其他问题
 
@@ -105,8 +105,8 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzExNDM1MSwxMzU5ODg5Njc4LC0yMT
-U3MTk4NzksMTY2NjYyOTcwNiwtOTU3MzMxOTcxLDc4NTM4NTYy
-OCwtODU1MjMyNzg1LDE1MjYzMzQ4OSw4MjAxMzMyNzgsLTI2OT
-gwMjY0NF19
+eyJoaXN0b3J5IjpbLTE3MzI1MTU0NDcsMTM1OTg4OTY3OCwtMj
+E1NzE5ODc5LDE2NjY2Mjk3MDYsLTk1NzMzMTk3MSw3ODUzODU2
+MjgsLTg1NTIzMjc4NSwxNTI2MzM0ODksODIwMTMzMjc4LC0yNj
+k4MDI2NDRdfQ==
 -->
