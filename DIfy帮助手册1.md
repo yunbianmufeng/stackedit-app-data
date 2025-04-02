@@ -83,9 +83,9 @@
 
 ### 5.2 助手回复“没找到...资料”
 
-1.  **消息发送失败**：请检查您的网络连接。若网络正常，可能是消息内容包含敏感词汇或文件过大。请检查消息内容，尝试重新发送。若发送图片或文件失败，可尝试压缩文件大小后再次发送。
+1.  **原有**：助手知识库中并为录入您询问的知识。
 
-2.  **对方未收到消息**：偶尔可能会出现消息延迟的情况。您可以等待一段时间，若对方仍未收到消息，可尝试重新发送。若问题持续存在，请联系客服排查原因。
+2.  **解决**：请联系相关部门同事在山东。
 
 ### 5.3 其他问题
 
@@ -105,8 +105,8 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODAxNTIwMTEsMTM1OTg4OTY3OCwtMj
-E1NzE5ODc5LDE2NjY2Mjk3MDYsLTk1NzMzMTk3MSw3ODUzODU2
-MjgsLTg1NTIzMjc4NSwxNTI2MzM0ODksODIwMTMzMjc4LC0yNj
-k4MDI2NDRdfQ==
+eyJoaXN0b3J5IjpbMTk0MzExNDM1MSwxMzU5ODg5Njc4LC0yMT
+U3MTk4NzksMTY2NjYyOTcwNiwtOTU3MzMxOTcxLDc4NTM4NTYy
+OCwtODU1MjMyNzg1LDE1MjYzMzQ4OSw4MjAxMzMyNzgsLTI2OT
+gwMjY0NF19
 -->
