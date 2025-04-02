@@ -57,9 +57,9 @@
 
 ### 4.1 按指定格式输出
 
-1.  **默认输出**：无指定格式输出要求，助手将通过基于对话的形式进行回复，内容包含列表项时采输出。
+1.  **默认输出**：无指定格式输出要求，助手将通过基于对话的形式进行回复，内容包含列表项时采输出一定排序格式。
 
-2.  **添加群成员**：在群组对话窗口，点击右上角的 “群成员” 图标，点击 “添加成员”，选择要添加的联系人，点击 “确定” 即可将其加入群组。
+2.  **指定输出格式**：助手支持按指定格式输出，例如输入“按”。
 
 3.  **移除群成员**：在群成员列表中，长按要移除的成员头像，选择 “移除成员”，确认后即可将该成员从群组中移除。只有群主有权限移除群成员。
 
@@ -105,7 +105,7 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MzIzMzI3NywtMjE1NzE5ODc5LDE2Nj
+eyJoaXN0b3J5IjpbMTIzOTM4Nzk2MCwtMjE1NzE5ODc5LDE2Nj
 Y2Mjk3MDYsLTk1NzMzMTk3MSw3ODUzODU2MjgsLTg1NTIzMjc4
 NSwxNTI2MzM0ODksODIwMTMzMjc4LC0yNjk4MDI2NDRdfQ==
 -->
