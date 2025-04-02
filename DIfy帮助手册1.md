@@ -27,7 +27,7 @@
 
 3.  **对话列表**：在界面左侧，显示您的对话列表。您可以通过对话里边选择对话内容。
 
-4.  **功能菜单**：在界面右上角，包含设置、添加联系人、创建群组等功能选项。点击菜单图标可展开并选择相应功能。
+4.  **功能菜单**：在界面底部，包含关于、上传文件功能选项。点击菜单图标可展开并选择相应功能。
 
 ## 三、核心功能详解
 
@@ -111,6 +111,6 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODM4NTgzODMsLTg1NTIzMjc4NSwxNT
-I2MzM0ODksODIwMTMzMjc4LC0yNjk4MDI2NDRdfQ==
+eyJoaXN0b3J5IjpbNTI5NDQyLC04NTUyMzI3ODUsMTUyNjMzND
+g5LDgyMDEzMzI3OCwtMjY5ODAyNjQ0XX0=
 -->
