@@ -45,7 +45,7 @@
 
 ### 3.3 消息管理
 
-1.  **编辑消息**：长按已发送的消息，在弹出的菜单中选择 “编辑”，可对消息内容进行修改，修改完成后点击 “完成” 即可更新消息。
+1.  **停止响应**：对已发送的消息，在弹出的菜单中选择 “编辑”，可对消息内容进行修改，修改完成后点击 “完成” 即可更新消息。
 
 2.  **删除消息**：长按要删除的消息，选择 “删除”，可将该消息从对话窗口中删除。注意，删除消息操作不可逆，请谨慎操作。
 
@@ -111,7 +111,7 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjYyOTcwNiwtOTU3MzMxOTcxLDc4NT
-M4NTYyOCwtODU1MjMyNzg1LDE1MjYzMzQ4OSw4MjAxMzMyNzgs
-LTI2OTgwMjY0NF19
+eyJoaXN0b3J5IjpbNTI3MDY0NzYwLDE2NjY2Mjk3MDYsLTk1Nz
+MzMTk3MSw3ODUzODU2MjgsLTg1NTIzMjc4NSwxNTI2MzM0ODks
+ODIwMTMzMjc4LC0yNjk4MDI2NDRdfQ==
 -->
