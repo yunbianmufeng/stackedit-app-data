@@ -71,7 +71,7 @@
 
 1.  **查看输出块**：在一个对话窗口下，点击 助手回复框底部的 ‘<’ 或者 ‘>’ 可以切换不同的输出块。
 
-2.  **安全设置**：在设置页面，点击 “安全设置”。您可以修改登录密码、绑定手机号码以提高账号安全性，还可设置指纹或面部识别解锁应用。
+2.  **查看助理的工作流程**：在对话中，点击 “安全设置”。您可以修改登录密码、绑定手机号码以提高账号安全性，还可设置指纹或面部识别解锁应用。
 
 ## 五、常见问题解答
 
@@ -105,8 +105,8 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODI0MjY4MSwxMzU5ODg5Njc4LC0yMT
-U3MTk4NzksMTY2NjYyOTcwNiwtOTU3MzMxOTcxLDc4NTM4NTYy
-OCwtODU1MjMyNzg1LDE1MjYzMzQ4OSw4MjAxMzMyNzgsLTI2OT
-gwMjY0NF19
+eyJoaXN0b3J5IjpbLTEzOTM3MDU1MzAsMTM1OTg4OTY3OCwtMj
+E1NzE5ODc5LDE2NjY2Mjk3MDYsLTk1NzMzMTk3MSw3ODUzODU2
+MjgsLTg1NTIzMjc4NSwxNTI2MzM0ODksODIwMTMzMjc4LC0yNj
+k4MDI2NDRdfQ==
 -->
