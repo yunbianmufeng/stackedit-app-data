@@ -41,7 +41,7 @@
 
 1.  **助手知识库**：助手知识库涵盖产研院生态企业的信息，包括企业名称、基本信息、资本结构、经营绩效、创新成果等。
 
-2.  **快速dafu**：当有新消息到来时，对话窗口会自动滚动显示最新消息。您可以查看消息内容，并进行回复、转发等操作。
+2.  **快速答复**：当您通过对话窗口询问企业信息时，助手能快速回答你，非常的好用。
 
 ### 3.3 消息管理
 
@@ -111,7 +111,7 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDQ3MTMyNzQsLTk1NzMzMTk3MSw3OD
-UzODU2MjgsLTg1NTIzMjc4NSwxNTI2MzM0ODksODIwMTMzMjc4
-LC0yNjk4MDI2NDRdfQ==
+eyJoaXN0b3J5IjpbMTY2NjYyOTcwNiwtOTU3MzMxOTcxLDc4NT
+M4NTYyOCwtODU1MjMyNzg1LDE1MjYzMzQ4OSw4MjAxMzMyNzgs
+LTI2OTgwMjY0NF19
 -->
