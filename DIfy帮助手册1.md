@@ -37,9 +37,9 @@
 
 2.  **历史对话**：对话左侧的对话列表，选择历史对话记录可以继续对话。
 
-### 3.2 信息获取
+### 3.2 信息检索
 
-1.  **发送消息**：在输入框中输入文字消息，支持表情符号、图片、文件等多种格式。点击输入框左侧的相应图标，选择要发送的图片或文件，然后点击 “发送”。
+1.  **助手知识库**：助手已经，支持表情符号、图片、文件等多种格式。点击输入框左侧的相应图标，选择要发送的图片或文件，然后点击 “发送”。
 
 2.  **接收消息**：当有新消息到来时，对话窗口会自动滚动显示最新消息。您可以查看消息内容，并进行回复、转发等操作。
 
@@ -111,7 +111,7 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzMzMTk3MSw3ODUzODU2MjgsLTg1NT
-IzMjc4NSwxNTI2MzM0ODksODIwMTMzMjc4LC0yNjk4MDI2NDRd
-fQ==
+eyJoaXN0b3J5IjpbNjYyNTIwNzcwLC05NTczMzE5NzEsNzg1Mz
+g1NjI4LC04NTUyMzI3ODUsMTUyNjMzNDg5LDgyMDEzMzI3OCwt
+MjY5ODAyNjQ0XX0=
 -->
