@@ -89,9 +89,9 @@
 
 ### 5.3 其他问题
 
-1.  **应用卡顿**：若应用出现卡顿现象，建议您关闭其他后台运行的应用程序，释放设备内存。也可尝试卸载并重新安装 DIfy Chatflow 应用。
+1.  **答非所问**：助手是经过严格培训的，一般不会出现该情况，若出现请联系我们，让它回炉重造。
 
-2.  **功能异常**：如遇到某个功能无法正常使用，请先确认您的应用版本是否为最新。若不是，请更新应用到最新版本后再尝试。若问题依旧，请联系我们的客服团队，我们将竭诚为您解决。
+2.  **功能异常**：如遇到某个功能无法正常使用，请先确认您的应用版本是否为最新。若不是，请更新应用到最新版本后再尝试。若问题依旧，请联系我们，我们将竭诚为您解决。
 
 ## 六、联系我们
 
@@ -105,8 +105,8 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI1MTU0NDcsMTM1OTg4OTY3OCwtMj
-E1NzE5ODc5LDE2NjY2Mjk3MDYsLTk1NzMzMTk3MSw3ODUzODU2
-MjgsLTg1NTIzMjc4NSwxNTI2MzM0ODksODIwMTMzMjc4LC0yNj
-k4MDI2NDRdfQ==
+eyJoaXN0b3J5IjpbLTkxNTkwMDgwNSwxMzU5ODg5Njc4LC0yMT
+U3MTk4NzksMTY2NjYyOTcwNiwtOTU3MzMxOTcxLDc4NTM4NTYy
+OCwtODU1MjMyNzg1LDE1MjYzMzQ4OSw4MjAxMzMyNzgsLTI2OT
+gwMjY0NF19
 -->
