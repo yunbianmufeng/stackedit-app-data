@@ -9,7 +9,7 @@
 
 ### 1.2 手册目的
 
-本手册将详细介绍 DIfy Chatflow 的功能、操作方法以及常见问题解答，帮助您快速上手并充分利用其强大功能。无论您是初次接触还是希望进一步提升使用技巧，都能从本手册中获取所需信息。
+本手册将详细介绍 投资项目助理 的功能、操作方法以及常见问题解答，帮助您快速上手并充分利用其强大功能。无论您是初次接触还是希望进一步提升使用技巧，都能从本手册中获取所需信息。
 
 ## 二、快速上手
 
@@ -111,6 +111,6 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODQ2NjM0NiwxNTI2MzM0ODksODIwMT
+eyJoaXN0b3J5IjpbLTg1NTIzMjc4NSwxNTI2MzM0ODksODIwMT
 MzMjc4LC0yNjk4MDI2NDRdfQ==
 -->
