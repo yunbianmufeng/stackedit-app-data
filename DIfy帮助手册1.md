@@ -5,7 +5,7 @@
 
 ### 1.1 欢迎使用
 
-欢迎使用 DIfy Chatflow！本应用旨在为您提供高效、便捷的对话式交互体验，助力您在各类场景中轻松实现沟通与协作。
+欢迎使用 投资项目助理！本应用旨在为您提供高效、便捷的对话式交互体验，助力您直接了解到产研院生态企业的全部信息。
 
 ### 1.2 手册目的
 
@@ -111,6 +111,6 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNjMzNDg5LDgyMDEzMzI3OCwtMjY5OD
-AyNjQ0XX0=
+eyJoaXN0b3J5IjpbLTM3ODQ2NjM0NiwxNTI2MzM0ODksODIwMT
+MzMjc4LC0yNjk4MDI2NDRdfQ==
 -->
