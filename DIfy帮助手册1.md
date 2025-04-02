@@ -1,5 +1,5 @@
 
-# DIfy Chatflow 帮助手册
+# 投资项目助理   帮助手册
 
 ## 一、引言
 
@@ -111,5 +111,6 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwMTMzMjc4LC0yNjk4MDI2NDRdfQ==
+eyJoaXN0b3J5IjpbMTUyNjMzNDg5LDgyMDEzMzI3OCwtMjY5OD
+AyNjQ0XX0=
 -->
