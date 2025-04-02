@@ -45,19 +45,13 @@
 
 ### 3.3 消息管理
 
-1.  **停止响应**：对已发送的消息，在弹出 “工作流”中可以选择“停止响应”，可命令助手强行停止。
+1.  **停止响应**：对已发送的消息，在大模型进行回答时可以选择输入框上边的“停止响应”，可命令助手强行停止。
 
 2.  **重新生成**：对已答复的消息，在弹出 对话框 底部可以选择![输入图片说明](/imgs/2025-04-02/VDak9HgZEB83nNsJ.png) 进行重新生成。
 
 3.  **消息复制**：对已答复的消息，在弹出 对话框 底部可以选择![输入图片说明](/imgs/2025-04-02/RBMkVQggkgXXukl7.png) 进行复制。
 
-### 3.4 联系人管理
 
-1.  **添加联系人**：点击功能菜单中的 “添加联系人”，输入对方的邮箱地址或用户名，点击 “搜索”。找到要添加的联系人后，点击 “添加”，等待对方通过好友请求。
-
-2.  **删除联系人**：在联系人列表中长按要删除的联系人，选择 “删除联系人”，确认后即可将其从您的联系人列表中移除。
-
-3.  **编辑联系人备注**：长按联系人头像，选择 “编辑备注”，输入您为该联系人设置的备注名称，点击 “保存” 即可。
 
 ## 四、高级功能
 
@@ -111,7 +105,7 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI3NTc3ODksMTY2NjYyOTcwNiwtOT
-U3MzMxOTcxLDc4NTM4NTYyOCwtODU1MjMyNzg1LDE1MjYzMzQ4
-OSw4MjAxMzMyNzgsLTI2OTgwMjY0NF19
+eyJoaXN0b3J5IjpbLTIxNTcxOTg3OSwxNjY2NjI5NzA2LC05NT
+czMzE5NzEsNzg1Mzg1NjI4LC04NTUyMzI3ODUsMTUyNjMzNDg5
+LDgyMDEzMzI3OCwtMjY5ODAyNjQ0XX0=
 -->
