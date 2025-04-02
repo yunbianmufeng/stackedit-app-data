@@ -33,9 +33,9 @@
 
 ### 3.1 发起对话
 
-1.  **一对一对话**：在对话列表中，点击其即可打开对话窗口或新建对话，开始输入消息进行交流。
+1.  **一对一对话**：点击“开启新对话”，开始输入消息进行交流。
 
-2.  **群组对话**：点击功能菜单中的 “创建群组”，选择要添加到群组的联系人，点击 “确定” 即可创建群组。在群组对话窗口，您可以与群内所有成员进行交流。
+2.  **历史对话**：对话左侧的对话列表，选择历史对话记录，您可以与群内所有成员进行交流。
 
 ### 3.2 消息发送与接收
 
@@ -111,6 +111,6 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5Mzc1MzU5MCwtODU1MjMyNzg1LDE1Mj
-YzMzQ4OSw4MjAxMzMyNzgsLTI2OTgwMjY0NF19
+eyJoaXN0b3J5IjpbNDMzMTgxMTksLTg1NTIzMjc4NSwxNTI2Mz
+M0ODksODIwMTMzMjc4LC0yNjk4MDI2NDRdfQ==
 -->
