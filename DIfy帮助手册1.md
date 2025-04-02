@@ -25,7 +25,7 @@
 
 2.  **输入框**：在对话窗口下方，您可在此输入您要发送的消息内容。输入完成后，按回车键或点击 “发送” 按钮即可将消息发送出去。
 
-3.  **对话列表**：在界面左侧，显示您的对话列表。您可以通过对话里边选择对话内容。
+3.  **对话列表**：在界面左侧，显示您的对话列表。您可以通过对话里边选择对话内容，或者对当前对话进行重命名和置顶等。
 
 4.  **功能菜单**：在界面底部，包含关于、上传文件的功能选项。点击图标可展开并选择相应功能。
 
@@ -111,6 +111,6 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzMTgxMTksLTg1NTIzMjc4NSwxNTI2Mz
-M0ODksODIwMTMzMjc4LC0yNjk4MDI2NDRdfQ==
+eyJoaXN0b3J5IjpbNzg1Mzg1NjI4LC04NTUyMzI3ODUsMTUyNj
+MzNDg5LDgyMDEzMzI3OCwtMjY5ODAyNjQ0XX0=
 -->
