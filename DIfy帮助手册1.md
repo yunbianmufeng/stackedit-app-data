@@ -65,7 +65,7 @@
 
 ### 4.2 查看信息源
 
-在。
+在助手回答的最后，将自动告诉您数据来源，您可以点击查看信息源用以判断信息的真假性和时效等。
 
 ### 4.3 隐私与安全设置
 
@@ -105,7 +105,7 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzA4MTcxMCwtMjE1NzE5ODc5LDE2Nj
+eyJoaXN0b3J5IjpbMTM1OTg4OTY3OCwtMjE1NzE5ODc5LDE2Nj
 Y2Mjk3MDYsLTk1NzMzMTk3MSw3ODUzODU2MjgsLTg1NTIzMjc4
 NSwxNTI2MzM0ODksODIwMTMzMjc4LC0yNjk4MDI2NDRdfQ==
 -->
