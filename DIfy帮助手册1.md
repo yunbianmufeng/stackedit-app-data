@@ -99,14 +99,14 @@
 
 -   **团队位置**：国际创新J楼  产研院 20层 工业软件研究室
 
--   **技术**：[support@dify.com](mailto:support@dify.com)
+-   **技术联系**：[support@dify.com](mailto:support@dify.com)
 
 -   **官方网站**：[山东产业技术研究院（青岛）](mailto:http://47.104.70.152/)
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMjMyNjI0OSwxMzU5ODg5Njc4LC0yMT
-U3MTk4NzksMTY2NjYyOTcwNiwtOTU3MzMxOTcxLDc4NTM4NTYy
-OCwtODU1MjMyNzg1LDE1MjYzMzQ4OSw4MjAxMzMyNzgsLTI2OT
-gwMjY0NF19
+eyJoaXN0b3J5IjpbLTE1NzM5Njg2NzAsMTM1OTg4OTY3OCwtMj
+E1NzE5ODc5LDE2NjY2Mjk3MDYsLTk1NzMzMTk3MSw3ODUzODU2
+MjgsLTg1NTIzMjc4NSwxNTI2MzM0ODksODIwMTMzMjc4LC0yNj
+k4MDI2NDRdfQ==
 -->
