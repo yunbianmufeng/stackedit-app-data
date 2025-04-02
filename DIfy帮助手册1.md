@@ -13,9 +13,9 @@
 
 ## 二、快速上手
 
-### 2.1 注册与登录
+### 2.1 打开助手
 
-1.  **注册**：打开 DIfy Chatflow 应用，点击 “注册” 按钮。按照提示输入您的邮箱地址，并设置密码。完成后，点击 “注册” 提交信息。您将收到一封验证邮件，请点击邮件中的链接完成邮箱验证。
+1.  **位置**：登录产研AI大脑后，在首页的zuoc“注册” 按钮。按照提示输入您的邮箱地址，并设置密码。完成后，点击 “注册” 提交信息。您将收到一封验证邮件，请点击邮件中的链接完成邮箱验证。
 
 2.  **登录**：在应用登录页面，输入已注册的邮箱地址和密码，点击 “登录” 即可进入 DIfy Chatflow 主界面。
 
@@ -111,6 +111,6 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTIzMjc4NSwxNTI2MzM0ODksODIwMT
-MzMjc4LC0yNjk4MDI2NDRdfQ==
+eyJoaXN0b3J5IjpbMjA5NDc5NTg1LC04NTUyMzI3ODUsMTUyNj
+MzNDg5LDgyMDEzMzI3OCwtMjY5ODAyNjQ0XX0=
 -->
