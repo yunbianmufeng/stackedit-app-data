@@ -47,9 +47,9 @@
 
 1.  **停止响应**：对已发送的消息，在弹出 “工作流”中可以选择“停止响应”，可命令助手强行停止。
 
-2.  **重新生成**：长按要删除的消息，选择 “删除”，可将该消息从对话窗口中删除。注意，删除消息操作不可逆，请谨慎操作。
+2.  **重新生成**：对已答复的消息，在弹出 对话框 底部可以选择“重新生成”。
 
-3.  **标记消息**：对于重要消息，您可以长按消息，选择 “标记为重要”，标记后的消息会在对话窗口中以特殊标识显示，方便您查找。
+3.  **消息fuzhi**：对于重要消息，您可以长按消息，选择 “标记为重要”，标记后的消息会在对话窗口中以特殊标识显示，方便您查找。
 
 ### 3.4 联系人管理
 
@@ -111,7 +111,7 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3MDkyNjMsMTY2NjYyOTcwNiwtOTU3Mz
-MxOTcxLDc4NTM4NTYyOCwtODU1MjMyNzg1LDE1MjYzMzQ4OSw4
-MjAxMzMyNzgsLTI2OTgwMjY0NF19
+eyJoaXN0b3J5IjpbLTg1NTY4MzA1MiwxNjY2NjI5NzA2LC05NT
+czMzE5NzEsNzg1Mzg1NjI4LC04NTUyMzI3ODUsMTUyNjMzNDg5
+LDgyMDEzMzI3OCwtMjY5ODAyNjQ0XX0=
 -->
