@@ -71,15 +71,13 @@
 
 1.  **查看输出块**：在一个对话窗口下，点击 助手回复框底部的 ‘<’ 或者 ‘>’ 可以切换不同的输出块。
 
-2.  **查看助理的工作流程**：在对话中，点击 “安全设置”。您可以修改登录密码、绑定手机号码以提高账号安全性，还可设置指纹或面部识别解锁应用。
+2.  **查看助理的工作流程**：在对话中，点击 工作流的“>” ![输入图片说明](/imgs/2025-04-02/tle4X29FlGo5YESr.png)。您可以查看工作流程进度和过程。
 
 ## 五、常见问题解答
 
-### 5.1 登录问题
+### 5.1 助手答复过慢或者卡顿
 
-1.  **忘记密码**：在登录页面点击 “忘记密码”，输入注册邮箱地址，点击 “发送重置邮件”。您将收到一封包含密码重置链接的邮件，点击链接按照提示设置新密码即可。
-
-2.  **无法登录**：请检查您的网络连接是否正常，确认输入的邮箱地址和密码是否正确。若问题仍未解决，请联系我们的客服人员。
+原有。
 
 ### 5.2 消息发送问题
 
@@ -105,8 +103,8 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM3MDU1MzAsMTM1OTg4OTY3OCwtMj
-E1NzE5ODc5LDE2NjY2Mjk3MDYsLTk1NzMzMTk3MSw3ODUzODU2
-MjgsLTg1NTIzMjc4NSwxNTI2MzM0ODksODIwMTMzMjc4LC0yNj
-k4MDI2NDRdfQ==
+eyJoaXN0b3J5IjpbNDcyOTM1NTQsMTM1OTg4OTY3OCwtMjE1Nz
+E5ODc5LDE2NjY2Mjk3MDYsLTk1NzMzMTk3MSw3ODUzODU2Mjgs
+LTg1NTIzMjc4NSwxNTI2MzM0ODksODIwMTMzMjc4LC0yNjk4MD
+I2NDRdfQ==
 -->
