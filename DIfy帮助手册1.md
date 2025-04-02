@@ -69,7 +69,7 @@
 
 ### 4.3 切换对话内容
 
-1.  **查看输出块**：在一个对话窗口下，点击 助手回复框底部的‘’。您可以选择是否允许陌生人添加您为好友、是否显示在线状态等隐私选项，根据您的需求进行设置。
+1.  **查看输出块**：在一个对话窗口下，点击 助手回复框底部的 ‘<’ 或者 ‘>’ 可以切换不同的输出块。
 
 2.  **安全设置**：在设置页面，点击 “安全设置”。您可以修改登录密码、绑定手机号码以提高账号安全性，还可设置指纹或面部识别解锁应用。
 
@@ -105,7 +105,7 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODg4NzQwMywxMzU5ODg5Njc4LC0yMT
+eyJoaXN0b3J5IjpbLTExODI0MjY4MSwxMzU5ODg5Njc4LC0yMT
 U3MTk4NzksMTY2NjYyOTcwNiwtOTU3MzMxOTcxLDc4NTM4NTYy
 OCwtODU1MjMyNzg1LDE1MjYzMzQ4OSw4MjAxMzMyNzgsLTI2OT
 gwMjY0NF19
