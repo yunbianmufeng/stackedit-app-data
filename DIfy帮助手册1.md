@@ -39,7 +39,7 @@
 
 ### 3.2 信息检索
 
-1.  **助手知识库**：助手已经，支持表情符号、图片、文件等多种格式。点击输入框左侧的相应图标，选择要发送的图片或文件，然后点击 “发送”。
+1.  **助手知识库**：助手知识库涵盖产研院生态企业的信息，包括支持表情符号、图片、文件等多种格式。点击输入框左侧的相应图标，选择要发送的图片或文件，然后点击 “发送”。
 
 2.  **接收消息**：当有新消息到来时，对话窗口会自动滚动显示最新消息。您可以查看消息内容，并进行回复、转发等操作。
 
@@ -111,7 +111,7 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyNTIwNzcwLC05NTczMzE5NzEsNzg1Mz
+eyJoaXN0b3J5IjpbOTk0NTU2NDk5LC05NTczMzE5NzEsNzg1Mz
 g1NjI4LC04NTUyMzI3ODUsMTUyNjMzNDg5LDgyMDEzMzI3OCwt
 MjY5ODAyNjQ0XX0=
 -->
