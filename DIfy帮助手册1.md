@@ -37,7 +37,7 @@
 
 2.  **历史对话**：对话左侧的对话列表，选择历史对话记录可以继续对话。
 
-### 3.2 消息发送与接收
+### 3.2 信息获取
 
 1.  **发送消息**：在输入框中输入文字消息，支持表情符号、图片、文件等多种格式。点击输入框左侧的相应图标，选择要发送的图片或文件，然后点击 “发送”。
 
@@ -111,7 +111,7 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI0MTU3NTgsNzg1Mzg1NjI4LC04NT
-UyMzI3ODUsMTUyNjMzNDg5LDgyMDEzMzI3OCwtMjY5ODAyNjQ0
-XX0=
+eyJoaXN0b3J5IjpbLTk1NzMzMTk3MSw3ODUzODU2MjgsLTg1NT
+IzMjc4NSwxNTI2MzM0ODksODIwMTMzMjc4LC0yNjk4MDI2NDRd
+fQ==
 -->
