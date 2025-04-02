@@ -25,7 +25,7 @@
 
 2.  **输入框**：在对话窗口下方，您可在此输入您要发送的消息内容。输入完成后，按回车键或点击 “发送” 按钮即可将消息发送出去。
 
-3.  **联系人列表**：在界面左侧，显示您的联系人及群组。您可以通过搜索框查找特定联系人，也可点击联系人头像进入与之的对话窗口。
+3.  **对话列表**：在界面左侧，显示您的对话列表。您可以通过对话里边选择对话内容。
 
 4.  **功能菜单**：在界面右上角，包含设置、添加联系人、创建群组等功能选项。点击菜单图标可展开并选择相应功能。
 
@@ -111,6 +111,6 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjY2MjA4OSwtODU1MjMyNzg1LDE1Mj
-YzMzQ4OSw4MjAxMzMyNzgsLTI2OTgwMjY0NF19
+eyJoaXN0b3J5IjpbLTE4ODM4NTgzODMsLTg1NTIzMjc4NSwxNT
+I2MzM0ODksODIwMTMzMjc4LC0yNjk4MDI2NDRdfQ==
 -->
