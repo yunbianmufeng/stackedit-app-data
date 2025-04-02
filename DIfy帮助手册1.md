@@ -35,7 +35,7 @@
 
 1.  **一对一对话**：点击“开启新对话”，开始输入消息进行交流。
 
-2.  **历史对话**：对话左侧的对话列表，选择历史对话记录，您可以与群内所有成员进行交流。
+2.  **历史对话**：对话左侧的对话列表，选择历史对话记录可以继续对话。
 
 ### 3.2 消息发送与接收
 
@@ -111,6 +111,7 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg1Mzg1NjI4LC04NTUyMzI3ODUsMTUyNj
-MzNDg5LDgyMDEzMzI3OCwtMjY5ODAyNjQ0XX0=
+eyJoaXN0b3J5IjpbLTE5MTI0MTU3NTgsNzg1Mzg1NjI4LC04NT
+UyMzI3ODUsMTUyNjMzNDg5LDgyMDEzMzI3OCwtMjY5ODAyNjQ0
+XX0=
 -->
