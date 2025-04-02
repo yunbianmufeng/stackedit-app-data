@@ -81,7 +81,7 @@
 
 2.  **解决**：可以稍等片刻。
 
-### 5.2 助手
+### 5.2 助手回复“没找到...资料”
 
 1.  **消息发送失败**：请检查您的网络连接。若网络正常，可能是消息内容包含敏感词汇或文件过大。请检查消息内容，尝试重新发送。若发送图片或文件失败，可尝试压缩文件大小后再次发送。
 
@@ -105,7 +105,7 @@
 
 我们的客服团队将在工作时间内尽快为您提供帮助，感谢您的使用！
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI2NzAxODcsMTM1OTg4OTY3OCwtMj
+eyJoaXN0b3J5IjpbLTE1ODAxNTIwMTEsMTM1OTg4OTY3OCwtMj
 E1NzE5ODc5LDE2NjY2Mjk3MDYsLTk1NzMzMTk3MSw3ODUzODU2
 MjgsLTg1NTIzMjc4NSwxNTI2MzM0ODksODIwMTMzMjc4LC0yNj
 k4MDI2NDRdfQ==
