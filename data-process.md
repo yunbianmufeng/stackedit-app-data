@@ -4,7 +4,6 @@
 
 ## 二、项目结构
 
-plaintext
 
 ```plaintext
 knowledge_base_data_processing/
@@ -392,5 +391,6 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU1MjkzODJdfQ==
+eyJoaXN0b3J5IjpbLTE0NjcxMTA0NDksLTExNjU1MjkzODJdfQ
+==
 -->
