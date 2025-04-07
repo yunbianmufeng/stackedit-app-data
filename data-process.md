@@ -71,7 +71,7 @@ python data_collection/web_scraper.py --url "https://example.com" --output_file 
 
 若使用非注释部分代码，则：
 -   `在终端输入`：要抓取的网页 URL。
--   `保存路径`：文件保存路径为web_scraper.py所在文件夹data_collection的同级文件夹data_warehouse下，文件名为爬取的URL
+-   `保存路径`：文件保存路径为web_scraper.py所在文件夹data_collection的同级文件夹data_web_warehouse下，文件名为爬取的URL
 
 #### 2. `api_fetcher.py`
 
@@ -378,6 +378,6 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzA0NjU4MSwtMTQ2NzExMDQ0OSwtMT
-E2NTUyOTM4Ml19
+eyJoaXN0b3J5IjpbLTMzMjUzMzAyLDEwMzcwNDY1ODEsLTE0Nj
+cxMTA0NDksLTExNjU1MjkzODJdfQ==
 -->
