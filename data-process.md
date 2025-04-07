@@ -77,7 +77,7 @@ python data_collection/web_scraper.py --url "https://example.com" --output_file 
 
 #### 2. `api_fetcher.py`
 
-若使用注释部分代码（适合单个脚本使用），从 API 获取数据，示例命令如下：
+若使用注释部分代码（适合单个脚本使用，token），从 API 获取数据，示例命令如下：
 
 bash
 ```bash
@@ -385,7 +385,7 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTExNDgxLDIwNTkxNDk5MDcsLTIxMz
-I2NDg3NjgsLTMzMjUzMzAyLDEwMzcwNDY1ODEsLTE0NjcxMTA0
-NDksLTExNjU1MjkzODJdfQ==
+eyJoaXN0b3J5IjpbLTEwMzE2MDA5MDgsLTMzNTExNDgxLDIwNT
+kxNDk5MDcsLTIxMzI2NDg3NjgsLTMzMjUzMzAyLDEwMzcwNDY1
+ODEsLTE0NjcxMTA0NDksLTExNjU1MjkzODJdfQ==
 -->
