@@ -94,7 +94,7 @@ python data_collection/api_fetcher.py --api_url "https://api.example.com/data" -
 - `△注意`：已注释部分代码和未注释部分只能二选一
 #### 3. `file_loader.py`
 
-加载本地文件数据，示例命令如下：
+若使用注释部分代码（适合单个脚本使用），加载本地文件数据，示例命令如下：
 
 bash
 
@@ -103,10 +103,13 @@ python data_collection/file_loader.py --input_file "source.csv" --output_file "l
 ```
 参数说明：
 
-  
-
 -   `--input_file`：输入文件的路径。
 -   `--output_file`：加载后数据保存的文件路径。
+
+若使用非注释部分代码（有token要求，适合联合使用），，token获取已封装在utils文件夹内的get_api_token即可；则：
+-   `在终端执行`：根据API_ENDPOINT——服务器URL 请求用户目标URL
+-   `数据返回`：HTTP请求回来的数据data默认不保存到本地，直接return data，直接引用api_fetcher()方法即可，如data = api_fetcher()
+- `△注意`：已注释部分代码和未注释部分只能二选一
 
 ### （二）数据清洗模块（`data_cleaning`）
 
@@ -380,8 +383,8 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDE0NTExMjQsLTE0MTkxMjEwMjAsLT
-MzNTExNDgxLDIwNTkxNDk5MDcsLTIxMzI2NDg3NjgsLTMzMjUz
-MzAyLDEwMzcwNDY1ODEsLTE0NjcxMTA0NDksLTExNjU1MjkzOD
-JdfQ==
+eyJoaXN0b3J5IjpbMjk5ODg3Mzc4LC0xMjQxNDUxMTI0LC0xND
+E5MTIxMDIwLC0zMzUxMTQ4MSwyMDU5MTQ5OTA3LC0yMTMyNjQ4
+NzY4LC0zMzI1MzMwMiwxMDM3MDQ2NTgxLC0xNDY3MTEwNDQ5LC
+0xMTY1NTI5MzgyXX0=
 -->
