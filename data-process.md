@@ -125,7 +125,7 @@ python data_cleaning/text_cleaner.py --input_file "dirty_text.json" --output_fil
 参数说明：
 -   `--input_file`：待清洗的文本数据文件路径。
 -   `--output_file`：清洗后文本数据保存的文件路径。
-- `def clean_text(text)`：调用该方法去除多余空格
+- `△ def clean_text(text)`：调用该方法可去除多余空格、去除特殊字符，保留字母、数字、中文和常见标点，并返回清洗好的data
 
 #### 2. `duplicate_remover.py`
 
@@ -376,7 +376,7 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDM0MjUwNywxODExNTYxMTM4LC0xMj
+eyJoaXN0b3J5IjpbMTQ1NDE4NDI4NCwxODExNTYxMTM4LC0xMj
 QxNDUxMTI0LC0xNDE5MTIxMDIwLC0zMzUxMTQ4MSwyMDU5MTQ5
 OTA3LC0yMTMyNjQ4NzY4LC0zMzI1MzMwMiwxMDM3MDQ2NTgxLC
 0xNDY3MTEwNDQ5LC0xMTY1NTI5MzgyXX0=
