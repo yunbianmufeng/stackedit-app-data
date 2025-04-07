@@ -70,7 +70,7 @@ python data_collection/web_scraper.py --url "https://example.com" --output_file 
 -   `--output_file`：抓取数据保存的文件路径。
 - `△注意`：已注释部分代码和未注释部分只能二选一
 
-若使用非注释部分代码，则：
+若使用非注释部分代码（适合联合使用），则：
 -   `在终端输入`：要抓取的网页 URL。
 -   `保存路径`：文件保存路径为web_scraper.py所在文件夹data_collection的同级文件夹data_web_warehouse下，文件名为爬取的URL
 - `△注意`：已注释部分代码和未注释部分只能二选一
@@ -380,7 +380,7 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzA3Nzc0OSwtMjEzMjY0ODc2OCwtMz
+eyJoaXN0b3J5IjpbMjA1OTE0OTkwNywtMjEzMjY0ODc2OCwtMz
 MyNTMzMDIsMTAzNzA0NjU4MSwtMTQ2NzExMDQ0OSwtMTE2NTUy
 OTM4Ml19
 -->
