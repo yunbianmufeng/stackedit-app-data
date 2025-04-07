@@ -117,22 +117,15 @@ python data_collection/file_loader.py --input_file "source.csv" --output_file "l
 
 清洗文本数据，示例命令如下：
 
-  
-
 bash
 
 ```bash
 python data_cleaning/text_cleaner.py --input_file "dirty_text.json" --output_file "clean_text.json"
 ```
-
-  
-
 参数说明：
-
-  
-
 -   `--input_file`：待清洗的文本数据文件路径。
 -   `--output_file`：清洗后文本数据保存的文件路径。
+- `def clean_text(text)`：调用该方法去除多余空格
 
 #### 2. `duplicate_remover.py`
 
@@ -383,8 +376,8 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTU2MTEzOCwtMTI0MTQ1MTEyNCwtMT
-QxOTEyMTAyMCwtMzM1MTE0ODEsMjA1OTE0OTkwNywtMjEzMjY0
-ODc2OCwtMzMyNTMzMDIsMTAzNzA0NjU4MSwtMTQ2NzExMDQ0OS
-wtMTE2NTUyOTM4Ml19
+eyJoaXN0b3J5IjpbLTkxMDM0MjUwNywxODExNTYxMTM4LC0xMj
+QxNDUxMTI0LC0xNDE5MTIxMDIwLC0zMzUxMTQ4MSwyMDU5MTQ5
+OTA3LC0yMTMyNjQ4NzY4LC0zMzI1MzMwMiwxMDM3MDQ2NTgxLC
+0xNDY3MTEwNDQ5LC0xMTY1NTI5MzgyXX0=
 -->
