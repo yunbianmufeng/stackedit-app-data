@@ -65,15 +65,12 @@ bash
 ```bash
 python data_collection/web_scraper.py --url "https://example.com" --output_file "web_data.json"
 ```
-
-  若使用注释部分代码
-
 参数说明：
-
-  
-
 -   `--url`：要抓取的网页 URL。
 -   `--output_file`：抓取数据保存的文件路径。
+
+若使用非注释部分代码：
+
 
 #### 2. `api_fetcher.py`
 
@@ -389,6 +386,6 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjQyMzg3LC0xNDY3MTEwNDQ5LC0xMT
-Y1NTI5MzgyXX0=
+eyJoaXN0b3J5IjpbLTE2NzYzNjg1OTksLTE0NjcxMTA0NDksLT
+ExNjU1MjkzODJdfQ==
 -->
