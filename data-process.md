@@ -89,7 +89,7 @@ python data_collection/api_fetcher.py --api_url "https://api.example.com/data" -
 - `△注意`：已注释部分代码和未注释部分只能二选一
 
 若使用非注释部分代码（有token要求，适合联合使用），则：
--   `在终端输入`：要抓取的网页 URL。
+-   `在终端执行`：要抓取的网页 URL。
 -   `保存路径`：文件保存路径为web_scraper.py所在文件夹data_collection的同级文件夹data_web_warehouse下，文件名为爬取的URL
 - `△注意`：已注释部分代码和未注释部分只能二选一
 #### 3. `file_loader.py`
@@ -385,7 +385,8 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTkxMjEwMjAsLTMzNTExNDgxLDIwNT
-kxNDk5MDcsLTIxMzI2NDg3NjgsLTMzMjUzMzAyLDEwMzcwNDY1
-ODEsLTE0NjcxMTA0NDksLTExNjU1MjkzODJdfQ==
+eyJoaXN0b3J5IjpbLTY4NTg0NzY1NywtMTQxOTEyMTAyMCwtMz
+M1MTE0ODEsMjA1OTE0OTkwNywtMjEzMjY0ODc2OCwtMzMyNTMz
+MDIsMTAzNzA0NjU4MSwtMTQ2NzExMDQ0OSwtMTE2NTUyOTM4Ml
+19
 -->
