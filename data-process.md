@@ -90,22 +90,17 @@ python data_collection/api_fetcher.py --api_url "https://api.example.com/data" -
 
 若使用非注释部分代码（有token要求，适合联合使用），则：
 -   `在终端执行`：根据API_ENDPOINT——服务器URL 请求用户目标URL
--   `数据返回`：文件保存路径为web_scraper.py所在文件夹data_collection的同级文件夹data_web_warehouse下，文件名为爬取的URL
+-   `数据返回`：HTTP请求回来的数据data默认不保存到本地，直接return data，直接api_fetcher（）
 - `△注意`：已注释部分代码和未注释部分只能二选一
 #### 3. `file_loader.py`
 
 加载本地文件数据，示例命令如下：
-
-  
 
 bash
 
 ```bash
 python data_collection/file_loader.py --input_file "source.csv" --output_file "loaded_data.json"
 ```
-
-  
-
 参数说明：
 
   
@@ -385,8 +380,8 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTYxOTIzMCwtMTQxOTEyMTAyMCwtMz
-M1MTE0ODEsMjA1OTE0OTkwNywtMjEzMjY0ODc2OCwtMzMyNTMz
-MDIsMTAzNzA0NjU4MSwtMTQ2NzExMDQ0OSwtMTE2NTUyOTM4Ml
-19
+eyJoaXN0b3J5IjpbLTEyNDQ2ODU0MTMsLTE0MTkxMjEwMjAsLT
+MzNTExNDgxLDIwNTkxNDk5MDcsLTIxMzI2NDg3NjgsLTMzMjUz
+MzAyLDEwMzcwNDY1ODEsLTE0NjcxMTA0NDksLTExNjU1MjkzOD
+JdfQ==
 -->
