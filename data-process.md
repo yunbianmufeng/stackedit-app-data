@@ -68,11 +68,12 @@ python data_collection/web_scraper.py --url "https://example.com" --output_file 
 参数说明：
 -   `--url`：要抓取的网页 URL。
 -   `--output_file`：抓取数据保存的文件路径。
-- `sanjia注意`：
+- `△注意`：已注释部分代码和未注释部分只能二选一
 
 若使用非注释部分代码，则：
 -   `在终端输入`：要抓取的网页 URL。
 -   `保存路径`：文件保存路径为web_scraper.py所在文件夹data_collection的同级文件夹data_web_warehouse下，文件名为爬取的URL
+- `△注意`：已注释部分代码和未注释部分只能二选一
 
 #### 2. `api_fetcher.py`
 
@@ -379,6 +380,6 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzIyNjkzNCwtMzMyNTMzMDIsMTAzNz
-A0NjU4MSwtMTQ2NzExMDQ0OSwtMTE2NTUyOTM4Ml19
+eyJoaXN0b3J5IjpbLTIxMzI2NDg3NjgsLTMzMjUzMzAyLDEwMz
+cwNDY1ODEsLTE0NjcxMTA0NDksLTExNjU1MjkzODJdfQ==
 -->
