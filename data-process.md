@@ -107,8 +107,8 @@ python data_collection/file_loader.py --input_file "source.csv" --output_file "l
 -   `--output_file`：加载后数据保存的文件路径。
 
 若使用非注释部分代码（适合联合使用）：
--   `在终端执行`：folder_path——修改
--   `数据返回`：HTTP请求回来的数据data默认不保存到本地，直接return data，直接引用api_fetcher()方法即可，如data = api_fetcher()
+-   `在终端执行`：folder_path——可替换为其他文件夹路径
+-   `按文件类型逐个读取`：检查文件是否为txt文件（可替换为其他类型的文档类型）  if filename.endswith(".txt")
 - `△注意`：已注释部分代码和未注释部分只能二选一
 
 ### （二）数据清洗模块（`data_cleaning`）
@@ -383,8 +383,8 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM3OTQ2ODEsLTEyNDE0NTExMjQsLT
-E0MTkxMjEwMjAsLTMzNTExNDgxLDIwNTkxNDk5MDcsLTIxMzI2
-NDg3NjgsLTMzMjUzMzAyLDEwMzcwNDY1ODEsLTE0NjcxMTA0ND
-ksLTExNjU1MjkzODJdfQ==
+eyJoaXN0b3J5IjpbMTgxMTU2MTEzOCwtMTI0MTQ1MTEyNCwtMT
+QxOTEyMTAyMCwtMzM1MTE0ODEsMjA1OTE0OTkwNywtMjEzMjY0
+ODc2OCwtMzMyNTMzMDIsMTAzNzA0NjU4MSwtMTQ2NzExMDQ0OS
+wtMTE2NTUyOTM4Ml19
 -->
