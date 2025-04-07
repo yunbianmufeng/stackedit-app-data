@@ -77,7 +77,7 @@ python data_collection/web_scraper.py --url "https://example.com" --output_file 
 
 #### 2. `api_fetcher.py`
 
-若使用注释部分代码（适合单个脚本使用，token），从 API 获取数据，示例命令如下：
+若使用注释部分代码（适合单个脚本使用，无token要求），从 API 获取数据，示例命令如下：
 
 bash
 ```bash
@@ -88,7 +88,7 @@ python data_collection/api_fetcher.py --api_url "https://api.example.com/data" -
 -   `--output_file`：获取数据保存的文件路径。
 - `△注意`：已注释部分代码和未注释部分只能二选一
 
-若使用非注释部分代码（适合联合使用），则：
+若使用非注释部分代码（有token要求，适合联合使用），则：
 -   `在终端输入`：要抓取的网页 URL。
 -   `保存路径`：文件保存路径为web_scraper.py所在文件夹data_collection的同级文件夹data_web_warehouse下，文件名为爬取的URL
 - `△注意`：已注释部分代码和未注释部分只能二选一
@@ -385,7 +385,7 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzE2MDA5MDgsLTMzNTExNDgxLDIwNT
+eyJoaXN0b3J5IjpbLTE0MTkxMjEwMjAsLTMzNTExNDgxLDIwNT
 kxNDk5MDcsLTIxMzI2NDg3NjgsLTMzMjUzMzAyLDEwMzcwNDY1
 ODEsLTE0NjcxMTA0NDksLTExNjU1MjkzODJdfQ==
 -->
