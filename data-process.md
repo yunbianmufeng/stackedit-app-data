@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 #### 1. `web_scraper.py`
 
- 若使用注释部分代码，用于从网页抓取数据，示例命令如下：
+ 若使用注释部分代码（适合单个脚本使用），用于从网页抓取数据，示例命令如下：
 
 bash
 
@@ -380,6 +380,7 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzI2NDg3NjgsLTMzMjUzMzAyLDEwMz
-cwNDY1ODEsLTE0NjcxMTA0NDksLTExNjU1MjkzODJdfQ==
+eyJoaXN0b3J5IjpbMTU5NzA3Nzc0OSwtMjEzMjY0ODc2OCwtMz
+MyNTMzMDIsMTAzNzA0NjU4MSwtMTQ2NzExMDQ0OSwtMTE2NTUy
+OTM4Ml19
 -->
