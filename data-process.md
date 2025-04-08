@@ -310,11 +310,9 @@ python data_storage/cloud_uploader.py --input_file "data_to_upload.json" --cloud
 
 ### （五）DIfy知识库更新示例（`data_updata`）
 
-#### 1. `logger.py`
+#### 1. `updata_dify.py`
 
-用于记录脚本运行日志，在其他脚本中导入使用示例：
-
-  
+用于将以处理好的数据更新到DIfy知识库中，做示例：
 
 python
 
@@ -324,24 +322,9 @@ logger = setup_logging()
 logger.info('Starting data processing...')
 ```
 
-#### 2. `config_parser.py`
-
-用于解析配置文件，使用示例：
-
-  
-
-python
-
-```python
-from utils.config_parser import parse_config
-config = parse_config('config.ini')
-```
-
-#### 3. `helper_functions.py`
-
 包含一些辅助函数，可根据需要在其他脚本中导入使用。
 
-### （五）工具模块（`utils`）
+### （六）工具模块（`utils`）
 
 #### 1. `logger.py`
 
@@ -411,7 +394,7 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzc4NzcwNSw3NTM2MjY2OTAsMTQ1ND
+eyJoaXN0b3J5IjpbMTk5NTAzMjUxNSw3NTM2MjY2OTAsMTQ1ND
 E4NDI4NCwxODExNTYxMTM4LC0xMjQxNDUxMTI0LC0xNDE5MTIx
 MDIwLC0zMzUxMTQ4MSwyMDU5MTQ5OTA3LC0yMTMyNjQ4NzY4LC
 0zMzI1MzMwMiwxMDM3MDQ2NTgxLC0xNDY3MTEwNDQ5LC0xMTY1
