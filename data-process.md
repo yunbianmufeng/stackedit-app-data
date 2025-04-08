@@ -196,9 +196,7 @@ python data_transformation/format_converter.py --input_file "input.json" --outpu
 
 #### 2. `data_enricher.py`
 
-丰富数据内容，示例命令如下：
-
-  
+若使用注释部分代码（适合单个脚本使用），丰富数据内容，示例命令如下：
 
 bash
 
@@ -214,6 +212,7 @@ python data_transformation/data_enricher.py --input_file "basic_data.json" --out
 
 -   `--input_file`：待丰富的数据文件路径。
 -   `--output_file`：丰富后数据保存的文件路径。
+-  `△注意`：已注释部分代码和未注释部分只能二选一
 
 #### 3. `aggregator.py`
 
@@ -376,8 +375,9 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDE4NDI4NCwxODExNTYxMTM4LC0xMj
-QxNDUxMTI0LC0xNDE5MTIxMDIwLC0zMzUxMTQ4MSwyMDU5MTQ5
-OTA3LC0yMTMyNjQ4NzY4LC0zMzI1MzMwMiwxMDM3MDQ2NTgxLC
-0xNDY3MTEwNDQ5LC0xMTY1NTI5MzgyXX0=
+eyJoaXN0b3J5IjpbMjA4MjU2NDQ5MCwxNDU0MTg0Mjg0LDE4MT
+E1NjExMzgsLTEyNDE0NTExMjQsLTE0MTkxMjEwMjAsLTMzNTEx
+NDgxLDIwNTkxNDk5MDcsLTIxMzI2NDg3NjgsLTMzMjUzMzAyLD
+EwMzcwNDY1ODEsLTE0NjcxMTA0NDksLTExNjU1MjkzODJdfQ==
+
 -->
