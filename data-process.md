@@ -212,7 +212,10 @@ python data_transformation/data_enricher.py --input_file "basic_data.json" --out
 
 -   `--input_file`：待丰富的数据文件路径。
 -   `--output_file`：丰富后数据保存的文件路径。
--  `△注意`：已注释部分代码和未注释部分只能二选一
+-  `△注意`：已注释部分代码和未注释部分只能二选一，而且需要根据不同的丰富内容进行自定义
+
+若使用非注释部分代码（适合联合使用），则直接调用即可
+
 
 #### 3. `aggregator.py`
 
@@ -375,9 +378,9 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MjU2NDQ5MCwxNDU0MTg0Mjg0LDE4MT
-E1NjExMzgsLTEyNDE0NTExMjQsLTE0MTkxMjEwMjAsLTMzNTEx
-NDgxLDIwNTkxNDk5MDcsLTIxMzI2NDg3NjgsLTMzMjUzMzAyLD
-EwMzcwNDY1ODEsLTE0NjcxMTA0NDksLTExNjU1MjkzODJdfQ==
+eyJoaXN0b3J5IjpbLTE2MzQyMzY4OTYsMTQ1NDE4NDI4NCwxOD
+ExNTYxMTM4LC0xMjQxNDUxMTI0LC0xNDE5MTIxMDIwLC0zMzUx
+MTQ4MSwyMDU5MTQ5OTA3LC0yMTMyNjQ4NzY4LC0zMzI1MzMwMi
+wxMDM3MDQ2NTgxLC0xNDY3MTEwNDQ5LC0xMTY1NTI5MzgyXX0=
 
 -->
