@@ -308,6 +308,39 @@ python data_storage/cloud_uploader.py --input_file "data_to_upload.json" --cloud
 -   `--cloud_provider`：云存储提供商（如 aws、gcp 等）。
 -   `--bucket_name`：云存储桶名称。
 
+### （五）DIfy知识库更新示例（`data_updata`）
+
+#### 1. `logger.py`
+
+用于记录脚本运行日志，在其他脚本中导入使用示例：
+
+  
+
+python
+
+```python
+from utils.logger import setup_logging
+logger = setup_logging()
+logger.info('Starting data processing...')
+```
+
+#### 2. `config_parser.py`
+
+用于解析配置文件，使用示例：
+
+  
+
+python
+
+```python
+from utils.config_parser import parse_config
+config = parse_config('config.ini')
+```
+
+#### 3. `helper_functions.py`
+
+包含一些辅助函数，可根据需要在其他脚本中导入使用。
+
 ### （五）工具模块（`utils`）
 
 #### 1. `logger.py`
@@ -378,8 +411,9 @@ python -m unittest discover tests
 
 -   **邮箱**：project@example.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzNjI2NjkwLDE0NTQxODQyODQsMTgxMT
-U2MTEzOCwtMTI0MTQ1MTEyNCwtMTQxOTEyMTAyMCwtMzM1MTE0
-ODEsMjA1OTE0OTkwNywtMjEzMjY0ODc2OCwtMzMyNTMzMDIsMT
-AzNzA0NjU4MSwtMTQ2NzExMDQ0OSwtMTE2NTUyOTM4Ml19
+eyJoaXN0b3J5IjpbLTEwNzc4NzcwNSw3NTM2MjY2OTAsMTQ1ND
+E4NDI4NCwxODExNTYxMTM4LC0xMjQxNDUxMTI0LC0xNDE5MTIx
+MDIwLC0zMzUxMTQ4MSwyMDU5MTQ5OTA3LC0yMTMyNjQ4NzY4LC
+0zMzI1MzMwMiwxMDM3MDQ2NTgxLC0xNDY3MTEwNDQ5LC0xMTY1
+NTI5MzgyXX0=
 -->
