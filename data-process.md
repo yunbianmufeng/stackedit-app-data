@@ -348,6 +348,9 @@ config = parse_config('config.ini')
 #### 3. `helper_functions.py`
 
 包含一些辅助函数，可根据需要在其他脚本中导入使用。
+#### 4. `get_api_token.py`
+
+用于进行HTTP请求获取数据时shiy提供认证，可根据需要在其他脚本中导入使用。
 
 ## 五、测试
 
@@ -386,9 +389,9 @@ python -m unittest discover tests
 
 -   **邮箱**：473259255@qq.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxMjYyMjYwLDc1MzYyNjY5MCwxNDU0MT
-g0Mjg0LDE4MTE1NjExMzgsLTEyNDE0NTExMjQsLTE0MTkxMjEw
-MjAsLTMzNTExNDgxLDIwNTkxNDk5MDcsLTIxMzI2NDg3NjgsLT
-MzMjUzMzAyLDEwMzcwNDY1ODEsLTE0NjcxMTA0NDksLTExNjU1
-MjkzODJdfQ==
+eyJoaXN0b3J5IjpbLTExODk4NjUwMjgsOTIxMjYyMjYwLDc1Mz
+YyNjY5MCwxNDU0MTg0Mjg0LDE4MTE1NjExMzgsLTEyNDE0NTEx
+MjQsLTE0MTkxMjEwMjAsLTMzNTExNDgxLDIwNTkxNDk5MDcsLT
+IxMzI2NDg3NjgsLTMzMjUzMzAyLDEwMzcwNDY1ODEsLTE0Njcx
+MTA0NDksLTExNjU1MjkzODJdfQ==
 -->
