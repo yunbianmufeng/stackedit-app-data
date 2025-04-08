@@ -312,17 +312,9 @@ python data_storage/cloud_uploader.py --input_file "data_to_upload.json" --cloud
 
 #### 1. `updata_dify.py`
 
-用于将以处理好的数据更新到DIfy知识库中，做示例：
+用于将以处理好的数据更新到DIfy知识库中，做示例。
 
-python
 
-```python
-from utils.logger import setup_logging
-logger = setup_logging()
-logger.info('Starting data processing...')
-```
-
-包含一些辅助函数，可根据需要在其他脚本中导入使用。
 
 ### （六）工具模块（`utils`）
 
@@ -392,11 +384,11 @@ python -m unittest discover tests
 
   
 
--   **邮箱**：project@example.com
+-   **邮箱**：473259255@qq.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTAzMjUxNSw3NTM2MjY2OTAsMTQ1ND
-E4NDI4NCwxODExNTYxMTM4LC0xMjQxNDUxMTI0LC0xNDE5MTIx
-MDIwLC0zMzUxMTQ4MSwyMDU5MTQ5OTA3LC0yMTMyNjQ4NzY4LC
-0zMzI1MzMwMiwxMDM3MDQ2NTgxLC0xNDY3MTEwNDQ5LC0xMTY1
-NTI5MzgyXX0=
+eyJoaXN0b3J5IjpbOTIxMjYyMjYwLDc1MzYyNjY5MCwxNDU0MT
+g0Mjg0LDE4MTE1NjExMzgsLTEyNDE0NTExMjQsLTE0MTkxMjEw
+MjAsLTMzNTExNDgxLDIwNTkxNDk5MDcsLTIxMzI2NDg3NjgsLT
+MzMjUzMzAyLDEwMzcwNDY1ODEsLTE0NjcxMTA0NDksLTExNjU1
+MjkzODJdfQ==
 -->
