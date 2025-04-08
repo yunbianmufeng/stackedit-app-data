@@ -350,7 +350,7 @@ config = parse_config('config.ini')
 包含一些辅助函数，可根据需要在其他脚本中导入使用。
 #### 4. `get_api_token.py`
 
-用于进行HTTP请求获取数据时shiy提供认证，可根据需要在其他脚本中导入使用。
+用于进行HTTP请求获取数据时使用authing提供认证的token获取，可根据需要修改。
 
 ## 五、测试
 
@@ -389,7 +389,7 @@ python -m unittest discover tests
 
 -   **邮箱**：473259255@qq.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODk4NjUwMjgsOTIxMjYyMjYwLDc1Mz
+eyJoaXN0b3J5IjpbLTEyODA2OTg2NDYsOTIxMjYyMjYwLDc1Mz
 YyNjY5MCwxNDU0MTg0Mjg0LDE4MTE1NjExMzgsLTEyNDE0NTEx
 MjQsLTE0MTkxMjEwMjAsLTMzNTExNDgxLDIwNTkxNDk5MDcsLT
 IxMzI2NDg3NjgsLTMzMjUzMzAyLDEwMzcwNDY1ODEsLTE0Njcx
